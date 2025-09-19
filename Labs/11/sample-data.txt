@@ -1,0 +1,16 @@
+Pregnances - 			0
+PlasmaGlucose - 		78
+DiastolicBloodPressure - 	54
+TricepsThickness - 		43
+SerumLinsulin - 		195
+BMI - 				21.64862431
+diabetesPedigree - 		0.134370303
+
+
+Pregnances - 			0
+PlasmaGlucose - 		75
+DiastolicBloodPressure - 	57
+TricepsThickness - 		42
+SerumLinsulin - 		185
+BMI - 				25.64862431
+diabetesPedigree - 		0.104370303
