@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/48cdabf4859741a997447a5673d24b78/artifacts
+end_time: 1758582243821
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 48cdabf4859741a997447a5673d24b78
+run_name: nebulous-mole-850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582220073
+status: 3
+tags: []
+user_id: tshen

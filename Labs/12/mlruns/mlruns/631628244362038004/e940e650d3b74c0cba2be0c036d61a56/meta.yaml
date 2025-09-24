@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/631628244362038004/e940e650d3b74c0cba2be0c036d61a56/artifacts
+end_time: 1758641347922
+entry_point_name: ''
+experiment_id: '631628244362038004'
+lifecycle_stage: active
+run_id: e940e650d3b74c0cba2be0c036d61a56
+run_name: placid-bass-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758641326238
+status: 3
+tags: []
+user_id: tshen

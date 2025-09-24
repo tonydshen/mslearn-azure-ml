@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/da59ee359eb649cb9f6090ff0dd13e77/artifacts
+end_time: 1758584688863
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: da59ee359eb649cb9f6090ff0dd13e77
+run_name: honorable-pig-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584675999
+status: 3
+tags: []
+user_id: tshen

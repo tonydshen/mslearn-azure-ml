@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/dcae7006bcd243b8a147c26e99ea417d/artifacts
+end_time: 1758582836502
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: dcae7006bcd243b8a147c26e99ea417d
+run_name: polite-snipe-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582817113
+status: 3
+tags: []
+user_id: tshen

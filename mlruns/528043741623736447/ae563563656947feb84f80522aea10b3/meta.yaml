@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/ae563563656947feb84f80522aea10b3/artifacts
+end_time: 1758584607790
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: ae563563656947feb84f80522aea10b3
+run_name: handsome-eel-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584590149
+status: 3
+tags: []
+user_id: tshen

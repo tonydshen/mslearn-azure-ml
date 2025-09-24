@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/4b115acd132c4725976d4acaf71bb899/artifacts
+end_time: 1758583254017
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 4b115acd132c4725976d4acaf71bb899
+run_name: thundering-gnat-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758583225451
+status: 3
+tags: []
+user_id: tshen

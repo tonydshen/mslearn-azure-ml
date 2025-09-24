@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/eb5e177fbe884728bba61cb91ece5e58/artifacts
+end_time: 1758584182608
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: eb5e177fbe884728bba61cb91ece5e58
+run_name: skittish-owl-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584167479
+status: 3
+tags: []
+user_id: tshen

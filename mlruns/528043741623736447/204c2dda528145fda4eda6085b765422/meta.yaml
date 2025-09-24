@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/204c2dda528145fda4eda6085b765422/artifacts
+end_time: 1758584555302
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 204c2dda528145fda4eda6085b765422
+run_name: rambunctious-cow-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584537049
+status: 3
+tags: []
+user_id: tshen

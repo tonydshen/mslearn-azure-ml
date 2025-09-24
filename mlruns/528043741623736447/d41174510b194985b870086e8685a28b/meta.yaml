@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/d41174510b194985b870086e8685a28b/artifacts
+end_time: 1758584150055
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: d41174510b194985b870086e8685a28b
+run_name: shivering-toad-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584134228
+status: 3
+tags: []
+user_id: tshen

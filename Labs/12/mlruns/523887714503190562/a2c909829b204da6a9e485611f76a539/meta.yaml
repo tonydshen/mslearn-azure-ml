@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/a2c909829b204da6a9e485611f76a539/artifacts
+end_time: 1758577871847
+entry_point_name: ''
+experiment_id: '523887714503190562'
+lifecycle_stage: active
+run_id: a2c909829b204da6a9e485611f76a539
+run_name: enthused-stork-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758577851094
+status: 3
+tags: []
+user_id: tshen

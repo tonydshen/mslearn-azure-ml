@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/774922639cf14893b1aec8cbecf0f8e8/artifacts
+end_time: 1758584218664
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 774922639cf14893b1aec8cbecf0f8e8
+run_name: sincere-chimp-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584201491
+status: 3
+tags: []
+user_id: tshen

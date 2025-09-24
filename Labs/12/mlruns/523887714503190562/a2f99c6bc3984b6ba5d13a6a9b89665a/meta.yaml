@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/a2f99c6bc3984b6ba5d13a6a9b89665a/artifacts
+end_time: 1758577851090
+entry_point_name: ''
+experiment_id: '523887714503190562'
+lifecycle_stage: active
+run_id: a2f99c6bc3984b6ba5d13a6a9b89665a
+run_name: amusing-pig-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758577834564
+status: 3
+tags: []
+user_id: tshen

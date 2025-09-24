@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/653ccc322ed841419c696e41a0aa2b2e/artifacts
+end_time: 1758582268827
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 653ccc322ed841419c696e41a0aa2b2e
+run_name: capable-snail-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582243933
+status: 3
+tags: []
+user_id: tshen

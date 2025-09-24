@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/d31539872a2b4200a0042f76be98d505/artifacts
+end_time: 1758584590044
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: d31539872a2b4200a0042f76be98d505
+run_name: blushing-gnu-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584573782
+status: 3
+tags: []
+user_id: tshen

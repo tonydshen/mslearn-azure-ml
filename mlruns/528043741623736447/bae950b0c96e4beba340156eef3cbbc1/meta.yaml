@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/bae950b0c96e4beba340156eef3cbbc1/artifacts
+end_time: 1758583225323
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: bae950b0c96e4beba340156eef3cbbc1
+run_name: bedecked-ant-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758583196090
+status: 3
+tags: []
+user_id: tshen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/9149a38a3be2428b8f7f6f2b5f323a94/artifacts
+end_time: 1758582162940
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 9149a38a3be2428b8f7f6f2b5f323a94
+run_name: spiffy-fawn-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582130540
+status: 3
+tags: []
+user_id: tshen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/b04dc1fe25fd49eca7d779b97da9e5ae/artifacts
+end_time: 1758584656377
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: b04dc1fe25fd49eca7d779b97da9e5ae
+run_name: colorful-roo-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584642067
+status: 3
+tags: []
+user_id: tshen

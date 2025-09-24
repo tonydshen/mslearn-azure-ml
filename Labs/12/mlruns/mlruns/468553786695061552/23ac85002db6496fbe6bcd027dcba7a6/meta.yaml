@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/468553786695061552/23ac85002db6496fbe6bcd027dcba7a6/artifacts
+end_time: 1758730739173
+entry_point_name: ''
+experiment_id: '468553786695061552'
+lifecycle_stage: active
+run_id: 23ac85002db6496fbe6bcd027dcba7a6
+run_name: hilarious-dove-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758730728441
+status: 3
+tags: []
+user_id: tshen

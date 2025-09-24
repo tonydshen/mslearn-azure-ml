@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/47e68b1c475d4396a73840dcefd83420/artifacts
+end_time: 1758584254455
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 47e68b1c475d4396a73840dcefd83420
+run_name: sedate-crane-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584236862
+status: 3
+tags: []
+user_id: tshen

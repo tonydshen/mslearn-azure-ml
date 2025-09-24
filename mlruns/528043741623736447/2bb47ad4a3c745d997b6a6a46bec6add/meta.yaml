@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/2bb47ad4a3c745d997b6a6a46bec6add/artifacts
+end_time: 1758582940267
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 2bb47ad4a3c745d997b6a6a46bec6add
+run_name: popular-asp-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582917929
+status: 3
+tags: []
+user_id: tshen

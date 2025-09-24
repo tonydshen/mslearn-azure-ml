@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/468553786695061552/models/m-c3e48cc27f2b4f399eb56c93762f3d2d/artifacts
+creation_timestamp: 1758730849263
+experiment_id: '468553786695061552'
+last_updated_timestamp: 1758730853128
+model_id: m-c3e48cc27f2b4f399eb56c93762f3d2d
+model_type: ''
+name: diabetes_model
+source_run_id: a16011736b144852bc1e27a221fbf4ff
+status: 2
+status_message: null

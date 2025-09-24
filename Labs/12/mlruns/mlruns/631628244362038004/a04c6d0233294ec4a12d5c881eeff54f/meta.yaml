@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/631628244362038004/a04c6d0233294ec4a12d5c881eeff54f/artifacts
+end_time: 1758641544657
+entry_point_name: ''
+experiment_id: '631628244362038004'
+lifecycle_stage: active
+run_id: a04c6d0233294ec4a12d5c881eeff54f
+run_name: persistent-calf-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758641524896
+status: 3
+tags: []
+user_id: tshen

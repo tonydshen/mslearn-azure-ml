@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/e9c660e8b2fc4cb5a5121adb854bea04/artifacts
+end_time: 1758578074861
+entry_point_name: ''
+experiment_id: '523887714503190562'
+lifecycle_stage: active
+run_id: e9c660e8b2fc4cb5a5121adb854bea04
+run_name: hyperparameter-sweep
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758577787591
+status: 3
+tags: []
+user_id: tshen

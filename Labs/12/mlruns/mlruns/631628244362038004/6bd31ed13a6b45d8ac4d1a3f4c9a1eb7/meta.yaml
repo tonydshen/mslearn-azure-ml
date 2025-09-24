@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/631628244362038004/6bd31ed13a6b45d8ac4d1a3f4c9a1eb7/artifacts
+end_time: 1758641275070
+entry_point_name: ''
+experiment_id: '631628244362038004'
+lifecycle_stage: active
+run_id: 6bd31ed13a6b45d8ac4d1a3f4c9a1eb7
+run_name: illustrious-bee-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758641243797
+status: 3
+tags: []
+user_id: tshen

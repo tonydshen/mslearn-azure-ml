@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/3ed41d0a5a93408cb91c9c65ec312e9e/artifacts
+end_time: 1758577926265
+entry_point_name: ''
+experiment_id: '523887714503190562'
+lifecycle_stage: active
+run_id: 3ed41d0a5a93408cb91c9c65ec312e9e
+run_name: amazing-wolf-584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758577906692
+status: 3
+tags: []
+user_id: tshen

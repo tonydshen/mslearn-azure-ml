@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/a49c39ccbe7a427ebed825ce9b8ad9ad/artifacts
+end_time: 1758584720411
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: a49c39ccbe7a427ebed825ce9b8ad9ad
+run_name: kindly-kite-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584705062
+status: 3
+tags: []
+user_id: tshen

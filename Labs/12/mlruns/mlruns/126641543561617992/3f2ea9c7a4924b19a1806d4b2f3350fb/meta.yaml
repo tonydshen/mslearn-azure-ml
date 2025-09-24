@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/126641543561617992/3f2ea9c7a4924b19a1806d4b2f3350fb/artifacts
+end_time: 1758667494662
+entry_point_name: ''
+experiment_id: '126641543561617992'
+lifecycle_stage: active
+run_id: 3f2ea9c7a4924b19a1806d4b2f3350fb
+run_name: efficient-wren-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758667494403
+status: 3
+tags: []
+user_id: tshen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/02cbe3be7b514ff2b5e3829d75ad3e3d/artifacts
+end_time: 1758582897934
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 02cbe3be7b514ff2b5e3829d75ad3e3d
+run_name: rogue-sloth-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582878554
+status: 3
+tags: []
+user_id: tshen

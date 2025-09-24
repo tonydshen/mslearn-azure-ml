@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/e9e3193b81ba422582a71b4a18a1a3d9/artifacts
+end_time: 1758584201379
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: e9e3193b81ba422582a71b4a18a1a3d9
+run_name: rare-shrew-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584182713
+status: 3
+tags: []
+user_id: tshen

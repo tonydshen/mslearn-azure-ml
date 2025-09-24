@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/126641543561617992/6962272ca7b24410abbb50a7629d5eca/artifacts
+end_time: 1758669334692
+entry_point_name: ''
+experiment_id: '126641543561617992'
+lifecycle_stage: active
+run_id: 6962272ca7b24410abbb50a7629d5eca
+run_name: receptive-rook-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758669324076
+status: 3
+tags: []
+user_id: tshen

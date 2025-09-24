@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/935b58b455b6492c9ea38c18e9718585/artifacts
+end_time: 1758583313102
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 935b58b455b6492c9ea38c18e9718585
+run_name: hilarious-cod-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758583285145
+status: 3
+tags: []
+user_id: tshen

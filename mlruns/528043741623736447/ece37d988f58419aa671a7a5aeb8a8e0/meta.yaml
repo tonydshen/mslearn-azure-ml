@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/ece37d988f58419aa671a7a5aeb8a8e0/artifacts
+end_time: 1758584518970
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: ece37d988f58419aa671a7a5aeb8a8e0
+run_name: intelligent-gnu-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584501903
+status: 3
+tags: []
+user_id: tshen

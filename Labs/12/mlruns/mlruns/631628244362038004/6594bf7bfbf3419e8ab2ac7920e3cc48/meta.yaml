@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/631628244362038004/6594bf7bfbf3419e8ab2ac7920e3cc48/artifacts
+end_time: 1758641596057
+entry_point_name: ''
+experiment_id: '631628244362038004'
+lifecycle_stage: active
+run_id: 6594bf7bfbf3419e8ab2ac7920e3cc48
+run_name: rogue-croc-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758641569386
+status: 3
+tags: []
+user_id: tshen

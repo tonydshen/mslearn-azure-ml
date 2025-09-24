@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/539a79120fdd4a689c0f511236551775/artifacts
+end_time: 1758582724242
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 539a79120fdd4a689c0f511236551775
+run_name: handsome-fish-264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582705828
+status: 3
+tags: []
+user_id: tshen

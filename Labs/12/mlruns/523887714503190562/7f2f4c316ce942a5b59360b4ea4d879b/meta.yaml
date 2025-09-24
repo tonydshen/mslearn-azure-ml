@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/7f2f4c316ce942a5b59360b4ea4d879b/artifacts
+end_time: 1758578002692
+entry_point_name: ''
+experiment_id: '523887714503190562'
+lifecycle_stage: active
+run_id: 7f2f4c316ce942a5b59360b4ea4d879b
+run_name: polite-doe-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758577984468
+status: 3
+tags: []
+user_id: tshen

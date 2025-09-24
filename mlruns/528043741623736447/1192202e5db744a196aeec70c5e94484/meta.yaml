@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/1192202e5db744a196aeec70c5e94484/artifacts
+end_time: 1758583372579
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 1192202e5db744a196aeec70c5e94484
+run_name: amazing-seal-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758583346328
+status: 3
+tags: []
+user_id: tshen

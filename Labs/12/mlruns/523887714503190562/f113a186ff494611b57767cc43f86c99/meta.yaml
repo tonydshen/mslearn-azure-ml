@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/f113a186ff494611b57767cc43f86c99/artifacts
+end_time: 1758577834559
+entry_point_name: ''
+experiment_id: '523887714503190562'
+lifecycle_stage: active
+run_id: f113a186ff494611b57767cc43f86c99
+run_name: blushing-rook-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758577814161
+status: 3
+tags: []
+user_id: tshen

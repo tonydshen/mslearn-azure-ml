@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/c02cd5045aae48868ac39433844e19e0/artifacts
+end_time: 1758577891453
+entry_point_name: ''
+experiment_id: '523887714503190562'
+lifecycle_stage: active
+run_id: c02cd5045aae48868ac39433844e19e0
+run_name: legendary-donkey-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758577871853
+status: 3
+tags: []
+user_id: tshen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/631628244362038004/ef91f65fbac74f4facbac6f16d02d00f/artifacts
+end_time: 1758641435107
+entry_point_name: ''
+experiment_id: '631628244362038004'
+lifecycle_stage: active
+run_id: ef91f65fbac74f4facbac6f16d02d00f
+run_name: intrigued-frog-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758641411856
+status: 3
+tags: []
+user_id: tshen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/be3e5112d9ae42f1a7ad3642cede6b3e/artifacts
+end_time: 1758582293053
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: be3e5112d9ae42f1a7ad3642cede6b3e
+run_name: adaptable-cub-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582268946
+status: 3
+tags: []
+user_id: tshen

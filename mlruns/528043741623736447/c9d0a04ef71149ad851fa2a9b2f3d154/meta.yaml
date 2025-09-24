@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/c9d0a04ef71149ad851fa2a9b2f3d154/artifacts
+end_time: 1758584536942
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: c9d0a04ef71149ad851fa2a9b2f3d154
+run_name: serious-trout-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584519077
+status: 3
+tags: []
+user_id: tshen

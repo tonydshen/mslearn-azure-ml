@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/468553786695061552/a16011736b144852bc1e27a221fbf4ff/artifacts
+end_time: 1758730853473
+entry_point_name: ''
+experiment_id: '468553786695061552'
+lifecycle_stage: active
+run_id: a16011736b144852bc1e27a221fbf4ff
+run_name: stately-squid-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758730843451
+status: 3
+tags: []
+user_id: tshen

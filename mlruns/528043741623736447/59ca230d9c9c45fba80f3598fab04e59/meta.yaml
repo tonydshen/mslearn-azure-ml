@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/59ca230d9c9c45fba80f3598fab04e59/artifacts
+end_time: 1758584318566
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 59ca230d9c9c45fba80f3598fab04e59
+run_name: secretive-goose-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584301390
+status: 3
+tags: []
+user_id: tshen

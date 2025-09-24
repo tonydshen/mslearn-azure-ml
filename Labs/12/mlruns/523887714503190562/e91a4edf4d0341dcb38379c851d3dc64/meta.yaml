@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/e91a4edf4d0341dcb38379c851d3dc64/artifacts
+end_time: 1758577966844
+entry_point_name: ''
+experiment_id: '523887714503190562'
+lifecycle_stage: active
+run_id: e91a4edf4d0341dcb38379c851d3dc64
+run_name: amazing-flea-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758577945013
+status: 3
+tags: []
+user_id: tshen

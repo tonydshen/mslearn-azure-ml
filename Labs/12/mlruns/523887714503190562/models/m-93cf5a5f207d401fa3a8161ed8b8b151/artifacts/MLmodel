@@ -1,0 +1,28 @@
+artifact_path: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/models/m-93cf5a5f207d401fa3a8161ed8b8b151/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.3
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.20.0
+    model_type: keras
+    save_format: tf
+is_signature_from_type_hint: false
+mlflow_version: 3.4.0
+model_id: m-93cf5a5f207d401fa3a8161ed8b8b151
+model_size_bytes: 51321
+model_uuid: m-93cf5a5f207d401fa3a8161ed8b8b151
+prompts: null
+run_id: 3ed41d0a5a93408cb91c9c65ec312e9e
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 11]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-22 21:51:56.599979'

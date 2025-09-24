@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/e5604666f0a44151b4fa093cade9aa19/artifacts
+end_time: 1758582758613
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: e5604666f0a44151b4fa093cade9aa19
+run_name: abundant-mole-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582741102
+status: 3
+tags: []
+user_id: tshen

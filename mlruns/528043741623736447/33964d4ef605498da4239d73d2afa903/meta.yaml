@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/33964d4ef605498da4239d73d2afa903/artifacts
+end_time: 1758583485825
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 33964d4ef605498da4239d73d2afa903
+run_name: adorable-fox-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758583458271
+status: 3
+tags: []
+user_id: tshen

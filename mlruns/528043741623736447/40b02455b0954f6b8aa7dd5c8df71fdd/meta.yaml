@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/40b02455b0954f6b8aa7dd5c8df71fdd/artifacts
+end_time: 1758583587398
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 40b02455b0954f6b8aa7dd5c8df71fdd
+run_name: colorful-shoat-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758583564014
+status: 3
+tags: []
+user_id: tshen

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/d80c915383b84039968e3cbd8fc3135b/artifacts
+end_time: 1758577814155
+entry_point_name: ''
+experiment_id: '523887714503190562'
+lifecycle_stage: active
+run_id: d80c915383b84039968e3cbd8fc3135b
+run_name: awesome-grub-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758577787614
+status: 3
+tags: []
+user_id: tshen

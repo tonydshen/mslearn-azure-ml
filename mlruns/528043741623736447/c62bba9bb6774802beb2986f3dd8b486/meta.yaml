@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/c62bba9bb6774802beb2986f3dd8b486/artifacts
+end_time: 1758584167361
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: c62bba9bb6774802beb2986f3dd8b486
+run_name: marvelous-hen-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584150170
+status: 3
+tags: []
+user_id: tshen

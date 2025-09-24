@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/aa5865ac1444476fa34ecc225d6f109d/artifacts
+end_time: 1758582858381
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: aa5865ac1444476fa34ecc225d6f109d
+run_name: sincere-bee-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582836626
+status: 3
+tags: []
+user_id: tshen

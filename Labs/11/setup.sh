@@ -1,9 +1,10 @@
 #! /usr/bin/sh
 
 # Create random string
-guid=$(cat /proc/sys/kernel/random/uuid)
-suffix=${guid//[-]/}
-suffix=${suffix:0:18}
+# guid=$(cat /proc/sys/kernel/random/uuid)
+# suffix=${guid//[-]/}
+# suffix=${suffix:0:18}
+suffix="1234567890abcedf"  # Use a fixed suffix for demo purpose
 
 # Set the necessary variables
 RESOURCE_GROUP="rg-dp100-l${suffix}"

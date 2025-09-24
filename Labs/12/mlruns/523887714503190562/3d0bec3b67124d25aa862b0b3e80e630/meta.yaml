@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/3d0bec3b67124d25aa862b0b3e80e630/artifacts
+end_time: 1758578019631
+entry_point_name: ''
+experiment_id: '523887714503190562'
+lifecycle_stage: active
+run_id: 3d0bec3b67124d25aa862b0b3e80e630
+run_name: loud-mink-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758578002697
+status: 3
+tags: []
+user_id: tshen

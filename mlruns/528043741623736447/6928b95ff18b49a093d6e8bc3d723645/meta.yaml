@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/6928b95ff18b49a093d6e8bc3d723645/artifacts
+end_time: 1758582192047
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 6928b95ff18b49a093d6e8bc3d723645
+run_name: masked-stag-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582163075
+status: 3
+tags: []
+user_id: tshen

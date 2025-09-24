@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/4e96277987b14cae9be641a40275f741/artifacts
+end_time: 1758584236749
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 4e96277987b14cae9be641a40275f741
+run_name: treasured-koi-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584218781
+status: 3
+tags: []
+user_id: tshen

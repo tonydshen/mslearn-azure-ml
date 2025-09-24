@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/631628244362038004/fe968d0ba7514e679a19a2a86c756445/artifacts
+end_time: 1758641302363
+entry_point_name: ''
+experiment_id: '631628244362038004'
+lifecycle_stage: active
+run_id: fe968d0ba7514e679a19a2a86c756445
+run_name: rebellious-flea-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758641275199
+status: 3
+tags: []
+user_id: tshen

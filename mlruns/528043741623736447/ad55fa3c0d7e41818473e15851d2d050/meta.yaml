@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/ad55fa3c0d7e41818473e15851d2d050/artifacts
+end_time: 1758584335018
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: ad55fa3c0d7e41818473e15851d2d050
+run_name: invincible-fowl-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584318682
+status: 3
+tags: []
+user_id: tshen

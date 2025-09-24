@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/696113126115530211/ec7742b9ad6f44959b0f8361a7fd157c/artifacts
+end_time: 1758665536337
+entry_point_name: ''
+experiment_id: '696113126115530211'
+lifecycle_stage: active
+run_id: ec7742b9ad6f44959b0f8361a7fd157c
+run_name: hilarious-fox-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758665536086
+status: 3
+tags: []
+user_id: tshen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/344855251b7e4c4fb104b37c3676be8d/artifacts
+end_time: 1758584734722
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 344855251b7e4c4fb104b37c3676be8d
+run_name: unleashed-worm-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584720519
+status: 3
+tags: []
+user_id: tshen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/631628244362038004/6c6b27e9c5984ad4a76dd4f25ed4c519/artifacts
+end_time: 1758641569266
+entry_point_name: ''
+experiment_id: '631628244362038004'
+lifecycle_stage: active
+run_id: 6c6b27e9c5984ad4a76dd4f25ed4c519
+run_name: fun-wasp-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758641544781
+status: 3
+tags: []
+user_id: tshen

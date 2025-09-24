@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/9ddecec7c33c4867bab43ccd899394fd/artifacts
+end_time: 1758584573669
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 9ddecec7c33c4867bab43ccd899394fd
+run_name: flawless-bee-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584555423
+status: 3
+tags: []
+user_id: tshen

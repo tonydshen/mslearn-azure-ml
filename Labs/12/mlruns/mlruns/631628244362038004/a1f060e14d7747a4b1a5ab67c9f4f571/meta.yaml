@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/631628244362038004/a1f060e14d7747a4b1a5ab67c9f4f571/artifacts
+end_time: 1758641370538
+entry_point_name: ''
+experiment_id: '631628244362038004'
+lifecycle_stage: active
+run_id: a1f060e14d7747a4b1a5ab67c9f4f571
+run_name: delightful-stag-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758641348059
+status: 3
+tags: []
+user_id: tshen

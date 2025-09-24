@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/2b4d2082eff049e5b30fe06e87334c9e/artifacts
+end_time: 1758583195982
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 2b4d2082eff049e5b30fe06e87334c9e
+run_name: abrasive-toad-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758583164024
+status: 3
+tags: []
+user_id: tshen

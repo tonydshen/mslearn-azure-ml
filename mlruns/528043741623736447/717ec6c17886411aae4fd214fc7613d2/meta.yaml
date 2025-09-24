@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/717ec6c17886411aae4fd214fc7613d2/artifacts
+end_time: 1758582037943
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 717ec6c17886411aae4fd214fc7613d2
+run_name: receptive-calf-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582002783
+status: 3
+tags: []
+user_id: tshen

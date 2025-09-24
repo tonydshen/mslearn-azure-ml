@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/8ada5b3d744f4d12a60fc2ecc0c3e28a/artifacts
+end_time: 1758583539305
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 8ada5b3d744f4d12a60fc2ecc0c3e28a
+run_name: delightful-mole-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758583512484
+status: 3
+tags: []
+user_id: tshen

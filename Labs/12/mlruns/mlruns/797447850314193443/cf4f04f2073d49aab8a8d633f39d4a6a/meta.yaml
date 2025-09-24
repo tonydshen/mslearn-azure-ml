@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/797447850314193443/cf4f04f2073d49aab8a8d633f39d4a6a/artifacts
+end_time: 1758664927574
+entry_point_name: ''
+experiment_id: '797447850314193443'
+lifecycle_stage: active
+run_id: cf4f04f2073d49aab8a8d633f39d4a6a
+run_name: whimsical-shrimp-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758664922672
+status: 3
+tags: []
+user_id: tshen

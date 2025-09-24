@@ -1,0 +1,14 @@
+artifact_uri: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/c6c17fabfc0948648d6b3dc06b5d48a7/artifacts
+end_time: 1758577906687
+entry_point_name: ''
+experiment_id: '523887714503190562'
+lifecycle_stage: active
+run_id: c6c17fabfc0948648d6b3dc06b5d48a7
+run_name: tasteful-dog-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758577891460
+status: 3
+tags: []
+user_id: tshen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/dfad58a17dea4da0a2fb7f7c0777dad6/artifacts
+end_time: 1758584335339
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: dfad58a17dea4da0a2fb7f7c0777dad6
+run_name: hyperparameter-sweep
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584078817
+status: 3
+tags: []
+user_id: tshen

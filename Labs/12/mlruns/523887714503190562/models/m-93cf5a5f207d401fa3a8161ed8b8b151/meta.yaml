@@ -1,0 +1,10 @@
+artifact_location: file:///home/tshen/dp-100/mslearn-azure-ml/Labs/12/mlruns/523887714503190562/models/m-93cf5a5f207d401fa3a8161ed8b8b151/artifacts
+creation_timestamp: 1758577916587
+experiment_id: '523887714503190562'
+last_updated_timestamp: 1758577925976
+model_id: m-93cf5a5f207d401fa3a8161ed8b8b151
+model_type: null
+name: model
+source_run_id: 3ed41d0a5a93408cb91c9c65ec312e9e
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/b1ce9e332dd5486fa14c05e7dd87cc97/artifacts
+end_time: 1758583346177
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: b1ce9e332dd5486fa14c05e7dd87cc97
+run_name: angry-vole-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758583313226
+status: 3
+tags: []
+user_id: tshen

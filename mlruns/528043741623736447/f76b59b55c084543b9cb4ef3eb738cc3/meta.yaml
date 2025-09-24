@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/f76b59b55c084543b9cb4ef3eb738cc3/artifacts
+end_time: 1758581912244
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: f76b59b55c084543b9cb4ef3eb738cc3
+run_name: sassy-cow-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758581863953
+status: 3
+tags: []
+user_id: tshen

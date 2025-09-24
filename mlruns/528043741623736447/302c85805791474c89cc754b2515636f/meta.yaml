@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/302c85805791474c89cc754b2515636f/artifacts
+end_time: 1758583285028
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 302c85805791474c89cc754b2515636f
+run_name: zealous-cod-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758583254134
+status: 3
+tags: []
+user_id: tshen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/572e36834b904b0b8b0803162b4444fc/artifacts
+end_time: 1758554825667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 572e36834b904b0b8b0803162b4444fc
+run_name: enchanting-swan-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758554825652
+status: 4
+tags: []
+user_id: tshen

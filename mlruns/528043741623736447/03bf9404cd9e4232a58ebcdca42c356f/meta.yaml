@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/03bf9404cd9e4232a58ebcdca42c356f/artifacts
+end_time: 1758582664344
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 03bf9404cd9e4232a58ebcdca42c356f
+run_name: intrigued-dove-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582642977
+status: 3
+tags: []
+user_id: tshen

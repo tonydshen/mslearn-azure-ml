@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/2fe165493d80419c80886dca0f862367/artifacts
+end_time: 1758584269986
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 2fe165493d80419c80886dca0f862367
+run_name: righteous-shark-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584254565
+status: 3
+tags: []
+user_id: tshen

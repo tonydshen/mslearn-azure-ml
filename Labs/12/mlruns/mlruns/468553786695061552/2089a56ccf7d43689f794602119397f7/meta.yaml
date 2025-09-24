@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/468553786695061552/2089a56ccf7d43689f794602119397f7/artifacts
+end_time: 1758728720578
+entry_point_name: ''
+experiment_id: '468553786695061552'
+lifecycle_stage: active
+run_id: 2089a56ccf7d43689f794602119397f7
+run_name: bemused-seal-212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758728702810
+status: 3
+tags: []
+user_id: tshen

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/631628244362038004/ead15ba82b094ae59d108ee703fe449b/artifacts
+end_time: 1758641524777
+entry_point_name: ''
+experiment_id: '631628244362038004'
+lifecycle_stage: active
+run_id: ead15ba82b094ae59d108ee703fe449b
+run_name: learned-cub-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758641503728
+status: 3
+tags: []
+user_id: tshen

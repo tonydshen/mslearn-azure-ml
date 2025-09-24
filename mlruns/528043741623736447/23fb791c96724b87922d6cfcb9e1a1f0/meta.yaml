@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/23fb791c96724b87922d6cfcb9e1a1f0/artifacts
+end_time: 1758582794357
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 23fb791c96724b87922d6cfcb9e1a1f0
+run_name: invincible-snake-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582774384
+status: 3
+tags: []
+user_id: tshen

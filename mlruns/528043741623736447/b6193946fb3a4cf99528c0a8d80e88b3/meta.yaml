@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/b6193946fb3a4cf99528c0a8d80e88b3/artifacts
+end_time: 1758584286570
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: b6193946fb3a4cf99528c0a8d80e88b3
+run_name: overjoyed-shoat-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758584270097
+status: 3
+tags: []
+user_id: tshen

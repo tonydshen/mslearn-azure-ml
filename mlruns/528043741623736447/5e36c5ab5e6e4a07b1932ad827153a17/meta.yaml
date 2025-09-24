@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528043741623736447/5e36c5ab5e6e4a07b1932ad827153a17/artifacts
+end_time: 1758582098376
+entry_point_name: ''
+experiment_id: '528043741623736447'
+lifecycle_stage: active
+run_id: 5e36c5ab5e6e4a07b1932ad827153a17
+run_name: crawling-auk-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758582069552
+status: 3
+tags: []
+user_id: tshen
